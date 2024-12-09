@@ -179,8 +179,6 @@ if (!osaragi.public) {
 if (!m.key.fromMe && !isCreator) return
 }
 
-if (m.fromMe) return
-
 async function tiktok2(query) {
   return new Promise(async (resolve, reject) => {
     try {
