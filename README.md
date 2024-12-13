@@ -20,6 +20,7 @@
 
 ## Osaragi V3.0 ✨
 - AI
+- AI Image Anime ( With Model )
 - Downloader
 - Tools
 - Group Security
